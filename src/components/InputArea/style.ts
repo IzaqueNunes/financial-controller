@@ -21,24 +21,24 @@ export const Input = styled.input`
   width: 100%;
   height: 30px;
   padding: 0 5px;
-  border: 1px solid lightblue;
+  border: 1px solid #0b132b;
   border-radius: 5px;
 `;
 export const Select = styled.select`
   width: 100%;
   height: 30px;
   padding: 0 5px;
-  border: 1px solid lightblue;
+  border: 1px solid #0b132b;
   border-radius: 5px;
 `;
 export const Button = styled.button`
   width: 100%;
   height: 30px;
   padding: 0 5px;
-  border: 1px solid lightblue;
+  border: 1px solid #0b132b;
   border-radius: 5px;
-  background-color: lightblue;
-  color: black;
+  background-color: #0b132b;
+  color: #fff;
   cursor: pointer;
 
   &:hover {
