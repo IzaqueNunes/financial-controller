@@ -37,4 +37,10 @@ export const items: Item[] = [
     title: "Meg Burguer",
     value: 45.0,
   },
+  {
+    date: new Date(2022, 6, 24),
+    category: "food",
+    title: "Meg Burguer",
+    value: 45.0,
+  },
 ];
